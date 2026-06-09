@@ -24,6 +24,7 @@ those questions with real data.
 12. Which categories have the most entry level roles?
 
 ## Key Findings
+
 - Data job postings grew 10,392% from 2020 to 2023
 - Data Analyst is the second most hired role in the UK with 85 postings
 - Entry level Data Analyst averages $88,535 — jump to mid-level adds $29,000
