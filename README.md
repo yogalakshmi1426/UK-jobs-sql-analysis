@@ -36,7 +36,7 @@ SELECT, WHERE, GROUP BY, HAVING, ORDER BY, LIMIT,
 AVG, COUNT, ROUND, DISTINCT, CASE WHEN, AS
 
 ## Dataset
-Jobs in Data — Kaggle
+Jobs in Data — Kaggle ( https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data )
 9,355 real job postings across global data roles
 
 ## How to Run
